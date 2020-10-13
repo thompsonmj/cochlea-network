@@ -4,4 +4,3 @@ xlrd
 requests
 networkx
 tellurium
-pygraphviz --install-option="--include-path=/usr/include/graphviz" --install-option="--library-path=/usr/lib64/graphviz/"
