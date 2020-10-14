@@ -1,6 +1,0 @@
-matplotlib
-pandas
-xlrd
-requests
-networkx
-tellurium
