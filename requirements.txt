@@ -4,4 +4,3 @@ xlrd
 requests
 networkx
 tellurium
-antimony==2.8
